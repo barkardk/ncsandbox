@@ -1,0 +1,4 @@
+*/nc-sandbox-*
+*/*.tgz
+.idea
+*/.terraform*
